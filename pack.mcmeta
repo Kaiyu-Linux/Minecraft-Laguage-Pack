@@ -1,0 +1,12 @@
+{
+   "pack":{
+      "pack_format":7,
+      "description":"Li Kaiyu(李开宇)'s Chinese Language (web words)"
+   },
+   "language":{
+      "zh_webnameli":{
+         "name":"网络词简体中文",
+         "region":"李开宇"
+      }
+   }
+}
